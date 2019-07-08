@@ -1,0 +1,29 @@
+body {
+    background-image: url(../images/AdobeStock_131354688.jpeg);         
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height:100%;
+    text-align: center;
+}
+
+h3 {
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    font-size: 3em;
+    font-weight: bold
+}
+p {
+    margin: auto;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    font-size: 1.5em;
+}
+
